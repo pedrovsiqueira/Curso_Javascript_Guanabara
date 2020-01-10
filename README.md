@@ -1,2 +1,2 @@
 # Curso_Javascript_Guanabara
-Todos os códigos do curso do Guanabara do Youtube.
+Todos os códigos do curso de Javascript do Guanabara do Youtube
